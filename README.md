@@ -163,7 +163,7 @@ not plain RAG. actual fact extraction, conflict resolution, a knowledge graph, a
                      ▼
               any LLM you use
 ```
-
+...
 ---
 
 ## quick start
